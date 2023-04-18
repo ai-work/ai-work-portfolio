@@ -12,6 +12,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>Asif Iqbal</title>
+      </head>
       <body>{children}</body>
     </html>
   )
